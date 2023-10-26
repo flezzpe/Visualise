@@ -21,23 +21,7 @@ local stats = game:GetService("Stats")
 local remote_storage = rep:WaitForChild("Remotes")
 
 local kill_saы = {
-    ['Classic'] = {
-        "Special gift",
-        "I can run faster with no wind resistance",
-        "Are you ok ladie?",
-        "Can't hear you over this killsounds",
-        "Still don't understand...",
-        "GAME OVER!",
-        "Huh?",
-        "How'd this happened",
-        "Gimmie ur watermelons",
-        "Ay look at me",
-        "How was your day?",
-        "Yuo're",
-        "Don't lose ur head.",
-        "Are u having a bad time?",
-        "Some can't heal with time",
-        "Cause we can't run",
+    ['C
         "Huh? What happend?",
         "Where'd you go?",
         "Don't be rage again.",
@@ -49,20 +33,7 @@ local kill_saы = {
         "Pwned by best cheto",
         "1 hhh",
         "So bad",
-        "You mad?",
-        "Don't cry pls",
-        "2fast4u",
-        "Uninstall your hacks",
-        "You hacking and losing?",
-        "Why are you so bad",
-        "ENJOY YOUR LOSE KID",
-        "I hope you didn't pay for those.",
-        "Get on my level",
-        "Dood just get better LOL!",
-        "r u emo 12y.o 60kg",
-        "u cried trying to report me",
-        "so trash LUL",
-        "weak bot",
+       
         "i can buy ur life",
         "LLLLLLLLL",
         "SORRY I HURT YOUR ROBLOX EGO BUT LOOK -> 🤏 I DONT CARE"
@@ -70,16 +41,7 @@ local kill_saы = {
     ['FlessPe'] = {
         "Начинай ныть.",
         "Тебя заовнили",
-        "1 нн-чик",
-        "Ты так слаб..",
-        "так плохо...",
-        "ты зол?",
-        "Хахаха ты такой потный",
-        "Слишком быстр для тебя",
-        "Удали эту игру тoлстый",
-        "всё ещё мне лузаешь..",
-        "Жаль конечно что против тебя играю...",
-        "Хаххахаха, КАК ТЫ СМЕШНО УПАЛ, Я НЕ МОГУ",
+  
         "Сильно не переживай, ты попробывал.",
         "В помойку сальный задрot",
         "такой тупой",
@@ -89,37 +51,16 @@ local kill_saы = {
         "промолчишь?"
     },
     ['Rough'] = {
-        "This ball was flying so fast that when it hit you, your head was broken in half and your eyes fell out.",
-        "Even my horse, which was torn to pieces when colliding with reinforcement at high speed, was not as sad as your diaphragm, which was scattered all over the map",
-        "It's so nice to hear the crunch of bones",
-        "Let me throw a ball at you at least 500 times, but I won’t stop and will do it until you stop functioning and your blood no longer flows to the brain"
-    },
-    ['Troll'] = {
-        "аим + наводка",
-        "aim boating and wall haxing",
+        "This b00 times, but I won’t stop and will do it until you stop functioning and your blood no longer flows to the brain"
         "я талант",
         "She/Her LGBTQ+ Ally",
         "ВАТАХЕЛ АР Ю ДУИНГ",
         "донт сри май бебе герл",
-        "Someone hacked my computer and now it's playing the game for me please help",
-        "FREE BROBUX GENERATOR 2023 LATEST NO BAN",
-        "Господи, как же хочется украиночку... ",
-        "Ддос - бан навсегда без разбора 💻🚫",
-        "ты овнед ты знал об этом?",
-        "💥💥💥Любители по фигачить клубами пара☁️",
-        "комфортный чатик для тебя по роблоксу",
-        "Доброе времени суток ! Идёт набор в клан standoff 2 Anime Win Team ",
-        "Роблокс игра сиреноголовий💓",
-        '"Я тебя агрить буду когда стоять крутить⛳ тебя на вертеле и ржать🤣"',
-        "п-папочка, я твой котёнок 🥺",
-        "Мяу! Я милая кошкодевочка. У меня пушистое меховое пальто насыщенного цвета."
+ыщенного цвета."
     },
     ['Advertise'] = {
         "What is this script? VISUALISE!",
-        "Looks like u got pwned by visualise",
-        "dummy go buy visualise",
-        "gg/visualise",
-        "buy visualise at gg/visualise",
+    
         "best cheat - gg/visualise",
         "get a visualise and don't get killed",
         "visualise > you",
